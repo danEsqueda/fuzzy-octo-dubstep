@@ -1,0 +1,12 @@
+Unix reference
+
+ls : list files
+ls -l : long form file list
+ls -a : displays hidden files
+touch (filename.txt) : create file
+tab after a part of a command and it shows you the options you can use to complete the command
+rm -rf i : delete the current directory?
+cd : change directory
+mkdir : make new directory
+pwd : displays where you are
+chmod [permissions] [path] : change permissions
