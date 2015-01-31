@@ -10,3 +10,9 @@ cd : change directory
 mkdir : make new directory
 pwd : displays where you are
 chmod [permissions] [path] : change permissions
+
+Git Notes
+
+commit message - simple, short, if you can't explain it like this you should have committed earlier
+
+If VI opens something, to get out hit - esc, then type :q!
